@@ -76,7 +76,7 @@ namespace EQ
 			inventoryPersonal = 0,
 			inventoryBank = 1,
 			inventorySharedBank = 2
-		}
+		};
 
 	} // namespace invtype
 
